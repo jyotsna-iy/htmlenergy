@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://pbs.twimg.com/media/FAB3bggVcAU1yPU?format=jpg&name=900x900');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 10%;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: xx-large;
+ }
+ .container{
+    margin:0 auto; 
+    max-width: 550px;
+ }
